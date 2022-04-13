@@ -9,6 +9,5 @@ My hobbies are:
 🥂 To Chill with my friends
 👨‍💻 Obviously, to write pet projects 
 
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/simpleicons.svg" />
+<h1> My Skils <h/>
 
