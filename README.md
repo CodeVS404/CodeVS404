@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">VsCode404</a> 
+<h1 align="center">Hi there, I'm <a href="" target="_blank">VsCode404</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 Recenlty I have worked in Airwork and MSoft as a Swift and Java(kotlin) developer.
 
