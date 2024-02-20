@@ -10,9 +10,6 @@ My hobbies are:
 💪 I lead a healthy lifestyle
 👨‍💻 Obviously, to write pet projects 
 
-Мy contacts:
-http://vs-code.ru/
-
 <h1> My Skils <h/>
  <br/> <img alt="React" src="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&amp;logo=react&amp;logoColor=white" style="max-width: 100%;">
  <img alt="github actions" src="https://camo.githubusercontent.com/f0acbdace9431d2a168a8a53637655735a6fd6eee112155fd7f6daac3ff47f18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875625f416374696f6e732d3230383846463f7374796c653d666c61742d737175617265266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&amp;logo=github-actions&amp;logoColor=white" style="max-width: 100%;">
